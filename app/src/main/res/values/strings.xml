@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioGroup_CheckBox_Example</string>
+    <string name="question">What would you like to have?</string>
+    <string name="rice">Rice</string>
+    <string name="chapati">Chapati</string>
+    <string name="dosa">Dosa</string>
+    <string name="cheese">Cheese</string>
+    <string name="salad">Salad</string>
+    <string name="onion">Onion</string>
+    <string name="place_order">Place Order</string>
+</resources>
